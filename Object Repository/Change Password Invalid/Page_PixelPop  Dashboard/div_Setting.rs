@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Setting</name>
+   <tag></tag>
+   <elementGuidId>c194559a-b4c2-4fd1-9abe-52c49c4d0a23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div[2]/div[2]/div[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.YBox-root.menu-item.css-87s48d</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40fe14b6-afe2-4177-b8bc-e1c837ae4a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YBox-root menu-item css-87s48d</value>
+      <webElementGuid>f54107ad-1c1e-4628-9ee0-020174c01dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setting</value>
+      <webElementGuid>7cb39ae9-0566-48a0-b9fb-50abb45be0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-twkkja&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;YBox-root right css-87s48d&quot;]/div[@class=&quot;setting css-15s0kx7&quot;]/div[@class=&quot;YBox-root menu css-87s48d&quot;]/a[1]/div[@class=&quot;YBox-root menu-item css-87s48d&quot;]</value>
+      <webElementGuid>215c0ef9-8494-4cb7-82a4-222b808c20ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>1e2a924f-5f69-417c-8572-65b8537689e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='has been successfully updated'])[1]/following::div[6]</value>
+      <webElementGuid>50359980-b270-4f90-a90c-1174df17f26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='videoplayback'])[2]/following::div[6]</value>
+      <webElementGuid>a76e8687-1c9b-49f8-9ecb-970ad5e9367b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::div[1]</value>
+      <webElementGuid>2eac36db-cf10-4f4d-9ad5-83b0c224f2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>1e834c17-63e1-46b4-98a4-79efc6468dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Setting' or . = 'Setting')]</value>
+      <webElementGuid>f7de19ba-4109-4c3a-b100-b812ddb1c76f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat menambah media dengan file selain Video</description>
+   <name>TS_MD_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0748fdb6-5ca8-47f7-8391-1689070d2705</testCaseGuid>
+</TestCaseEntity>

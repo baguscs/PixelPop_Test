@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Media</name>
+   <tag></tag>
+   <elementGuidId>b9e91db7-a128-4d63-baaa-5df6b0907768</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.YButton-root.btn-menu.css-17egvqs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9046ced2-c263-4d67-a1b5-cbc6d414aab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YButton-root btn-menu css-17egvqs</value>
+      <webElementGuid>552e57b2-ef0e-4761-bd5b-e618d069ade6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Media</value>
+      <webElementGuid>3605ff77-16bf-4754-90f2-4534eff1b95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-twkkja&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;YBox-root left css-87s48d&quot;]/button[@class=&quot;YButton-root btn-menu css-17egvqs&quot;]</value>
+      <webElementGuid>b2b1e671-8cf1-4674-97c6-e98fceee016d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div[2]/div/button</value>
+      <webElementGuid>027fbf71-3fb9-42c2-b5e8-ced359d4528d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/preceding::button[1]</value>
+      <webElementGuid>52aaecb8-2462-4729-a1d5-9333a08b7b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>deefa673-e916-43d7-892f-95933421e0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Media' or . = ' Media')]</value>
+      <webElementGuid>172a6328-ab7b-4f62-a9fb-0939f2ff5243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

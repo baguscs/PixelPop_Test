@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Display</name>
+   <tag></tag>
+   <elementGuidId>8b4f7991-474b-4bab-9e42-49b696d01016</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>13d5d5db-5424-4f0b-a731-4aaaa064e641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YButton-root btn-menu css-17egvqs</value>
+      <webElementGuid>e3f4380d-ab58-4a5d-8f97-0cddc02aa8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Display</value>
+      <webElementGuid>ac4623c7-3df2-49cd-a333-ea1eab7e8aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-twkkja&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;YBox-root left css-87s48d&quot;]/button[@class=&quot;YButton-root btn-menu css-17egvqs&quot;]</value>
+      <webElementGuid>2e79ffb5-f954-458f-ba01-3134fa2532b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div[2]/div/button[2]</value>
+      <webElementGuid>13cd7ae5-8fec-4973-a3ef-9fc6d06bfd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media'])[1]/following::button[1]</value>
+      <webElementGuid>67916da5-3188-4bb7-8815-a33a7437e0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Display']/parent::*</value>
+      <webElementGuid>1dd7562a-2555-4408-a77e-0e7b4b97eb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>14ff84e1-e763-4cff-92bf-666eb2c7f082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Display' or . = ' Display')]</value>
+      <webElementGuid>049f0284-312e-4de2-930b-66c9c852f1a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

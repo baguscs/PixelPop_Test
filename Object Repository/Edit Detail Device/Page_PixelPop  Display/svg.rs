@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>cfa7345a-b251-4db1-a19d-ab14938b0f73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='offline'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='offline'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-1pbasli&quot;]/div[@class=&quot;css-kx2a0v&quot;]/div[@class=&quot;YBox-root css-87s48d&quot;]/table[@class=&quot;table css-ezcjsp&quot;]/tbody[@class=&quot;table-body css-1l1lz3u&quot;]/tr[@class=&quot;table-row  css-1l1lz3u&quot;]/td[@class=&quot;table-cell undefined css-1l1lz3u&quot;]/div[@class=&quot;css-d3a8m4&quot;]/a[1]/button[@class=&quot;YIconButton-root css-1qb7fz2&quot;]/svg[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>288dd3ff-7021-45bd-a9d8-f0ab7e52e481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>20187064-e8d5-417e-87ac-86ebdd5a0333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>10d9dd68-b94b-43eb-ba3f-aa1bc6a5287f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>d5216ca6-3f9d-45a8-b0d2-9d59af4242a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>e2c78fa9-4601-4017-93c5-a042fa584e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 256 256</value>
+      <webElementGuid>c3fbbf9c-323d-4cc2-96d2-b5f09d21dd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-1pbasli&quot;]/div[@class=&quot;css-kx2a0v&quot;]/div[@class=&quot;YBox-root css-87s48d&quot;]/table[@class=&quot;table css-ezcjsp&quot;]/tbody[@class=&quot;table-body css-1l1lz3u&quot;]/tr[@class=&quot;table-row  css-1l1lz3u&quot;]/td[@class=&quot;table-cell undefined css-1l1lz3u&quot;]/div[@class=&quot;css-d3a8m4&quot;]/a[1]/button[@class=&quot;YIconButton-root css-1qb7fz2&quot;]/svg[1]</value>
+      <webElementGuid>7c376f1c-62d0-4d89-a41c-039904334359</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

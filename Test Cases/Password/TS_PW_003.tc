@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat mengubah password, jika confirm password tidak diisi</description>
+   <name>TS_PW_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1caaf4b-0e77-4d91-af2f-e74ae9287935</testCaseGuid>
+</TestCaseEntity>

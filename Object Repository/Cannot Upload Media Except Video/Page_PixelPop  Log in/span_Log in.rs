@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log in</name>
+   <tag></tag>
+   <elementGuidId>915ec79f-3cd4-4f47-b64b-2da4bdd4b65b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/main/section/form/div[3]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.YTextView-root.css-1hj09so</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ded218df-7fc7-4a4f-9424-284b5548a361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YTextView-root css-1hj09so</value>
+      <webElementGuid>21f6ee16-8398-4ca0-a140-fdbd73780759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>c9ebbe81-00a5-411a-b9f0-33d7802e0294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-c4mwcs&quot;]/main[@class=&quot;css-pq7wsg&quot;]/section[@class=&quot;form&quot;]/form[@class=&quot;form-login hidden-scroll&quot;]/div[@class=&quot;YBox-root form-container css-87s48d&quot;]/div[@class=&quot;YBox-root form-box css-87s48d&quot;]/button[@class=&quot;YButton-root css-vxmaid&quot;]/span[@class=&quot;YTextView-root css-1hj09so&quot;]</value>
+      <webElementGuid>bc7bbc66-e8fc-460b-a657-8d33f1f8ecff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/section/form/div[3]/div/button/span</value>
+      <webElementGuid>3579d3cd-e1d5-4aea-b02f-7fdf195483e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password ?'])[1]/following::span[1]</value>
+      <webElementGuid>d742941b-1250-42a2-919a-b804b009158d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[2]</value>
+      <webElementGuid>c5dee46b-7364-4372-9a1f-1a540ae2f555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Sure'])[1]/preceding::span[2]</value>
+      <webElementGuid>bd6082bb-6e77-4143-b13d-35ce96457a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>c6986f55-73d5-4d2a-852a-773ad2ad7792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>c92c90d3-4885-4841-af2c-089f719a9dc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

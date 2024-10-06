@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Forgot Password_YInput-root YInputGro_51ea33</name>
+   <tag></tag>
+   <elementGuidId>8a4b22bf-f0ce-4c71-ac5d-05367967322c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.YInput-root.YInputGroup-input.css-1cad3ft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='tacin97898@coloruz.com']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>214d19f2-4fef-46c1-9865-e970c229758f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YInput-root YInputGroup-input css-1cad3ft</value>
+      <webElementGuid>a579bc68-c9f9-47d2-bebd-00d77530569e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>ex: johndoe@example.com</value>
+      <webElementGuid>4dbfa26e-540b-493a-a398-ee3bfce2b754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>7f7c6838-619f-4f27-9cb3-e7645e83b564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>tacin97898@coloruz.com</value>
+      <webElementGuid>240ed7b4-5138-47bb-9c72-c8898dffe102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-c4mwcs&quot;]/main[@class=&quot;css-pq7wsg&quot;]/section[@class=&quot;form&quot;]/form[@class=&quot;form-login hidden-scroll&quot;]/div[@class=&quot;YBox-root form-container css-87s48d&quot;]/div[@class=&quot;YBox-root form-box css-87s48d&quot;]/div[@class=&quot;YInputField-root  focused css-1ezmgit&quot;]/div[@class=&quot;YInputContainer&quot;]/div[@class=&quot;YInputContainer-group YInputGroup&quot;]/input[@class=&quot;YInput-root YInputGroup-input css-1cad3ft&quot;]</value>
+      <webElementGuid>6ffe7037-9368-41b3-aabf-94cdff0eb546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='tacin97898@coloruz.com']</value>
+      <webElementGuid>cf862a1e-1656-4a3b-bb73-66b43e38f574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/main/section/form/div[3]/div/div[2]/div/div/input</value>
+      <webElementGuid>cd34b021-9985-4113-b3f5-93f2307e2f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password ?'])[1]/preceding::input[2]</value>
+      <webElementGuid>6f42da94-ce5a-4e00-b49e-25541c451017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::input[2]</value>
+      <webElementGuid>426e3de3-87c2-4a7f-baf8-e136ba26d191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>dd5d92b1-59e4-42e7-923b-f60454cb6b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'ex: johndoe@example.com' and @type = 'email']</value>
+      <webElementGuid>2532a5c8-4815-45dc-a287-e71bec54e189</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

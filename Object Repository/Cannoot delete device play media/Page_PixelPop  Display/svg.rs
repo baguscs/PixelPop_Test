@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>446a0176-e2f7-41b5-9412-c199b87ac764</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-d3a8m4 > button.YIconButton-root.css-1qb7fz2 > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5af397de-d3e6-4a56-899b-632f519f7a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>acf42d31-74e6-4e89-8c8f-b791ceffa30e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>5d1e5206-910d-4405-ba81-0a10560932b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>2015e9f1-f1c9-42b0-b713-c9845337ce7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>a2cd63f5-5234-4635-b612-83cef17c8b27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 256 256</value>
+      <webElementGuid>cc0117d5-563e-48b7-bc4d-b03875ef9379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-1pbasli&quot;]/div[@class=&quot;css-kx2a0v&quot;]/div[@class=&quot;YBox-root css-87s48d&quot;]/table[@class=&quot;table css-ezcjsp&quot;]/tbody[@class=&quot;table-body css-1l1lz3u&quot;]/tr[@class=&quot;table-row  css-1l1lz3u&quot;]/td[@class=&quot;table-cell undefined css-1l1lz3u&quot;]/div[@class=&quot;css-d3a8m4&quot;]/button[@class=&quot;YIconButton-root css-1qb7fz2&quot;]/svg[1]</value>
+      <webElementGuid>b5348dd8-499b-4154-a1d1-ec437d39d603</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

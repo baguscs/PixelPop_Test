@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Save Changes_YInput-root YInputGroup-_949428</name>
+   <tag></tag>
+   <elementGuidId>35d7b0d0-c4f3-41c4-bd8a-2bb296c556cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Alucard']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.YInput-root.YInputGroup-input.css-1cad3ft</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>44881a51-81fe-40ce-bb00-59dfb1b7b068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YInput-root YInputGroup-input css-1cad3ft</value>
+      <webElementGuid>22d32b7b-566a-4a06-b4ff-f95b13d00c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input here..</value>
+      <webElementGuid>edb5df0b-6b48-45e1-8c53-4ab3a56d49a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Alucard</value>
+      <webElementGuid>d3505a67-e678-4147-8432-5e3ae7d7618b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-1wjun2l&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;YBox-root container-content css-87s48d&quot;]/div[@class=&quot;YGrid-root css-1ww2sz&quot;]/div[@class=&quot;YGridItem-root css-ib1swe&quot;]/div[@class=&quot;YBox-root card css-87s48d&quot;]/div[@class=&quot;YBox-root card-detail css-87s48d&quot;]/div[@class=&quot;YBox-root group css-87s48d&quot;]/div[@class=&quot;YInputField-root  focused css-1ezmgit&quot;]/div[@class=&quot;YInputContainer&quot;]/div[@class=&quot;YInputContainer-group YInputGroup&quot;]/input[@class=&quot;YInput-root YInputGroup-input css-1cad3ft&quot;]</value>
+      <webElementGuid>0702a5f6-b12f-44e6-bc57-6b86dc7db7bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Alucard']</value>
+      <webElementGuid>444fc53e-09f9-4c82-8ae6-913b02733481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[2]/div[2]/div[2]/div/div/div[2]/div/div/div/div/div/input</value>
+      <webElementGuid>6f560ea3-7f85-4716-8199-55b200616549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Changes'])[1]/following::input[1]</value>
+      <webElementGuid>a5699fa4-5b03-4e28-b3f4-c95c0f545bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::input[1]</value>
+      <webElementGuid>26c59ce1-114d-43e1-9c26-f678b2cd5565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::input[7]</value>
+      <webElementGuid>69f4f369-59b4-44f3-af5d-a9d34a5e62b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Sure'])[1]/preceding::input[7]</value>
+      <webElementGuid>1c8a71d7-8705-4865-8e38-928f18331b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>d77852c6-511e-46cc-b475-ca7695a896d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input here..']</value>
+      <webElementGuid>b5b08586-fb1d-4d93-8f0c-605a5f92a6b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

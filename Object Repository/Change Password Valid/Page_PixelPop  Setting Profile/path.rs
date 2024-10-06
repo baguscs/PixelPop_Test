@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>41befcb6-3db7-41c1-9528-2e89c665e3ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.YInputGroup-adornment > div.YBox-root.css-87s48d > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>0dcc9173-643c-4d3e-973f-7001e7607f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M247.3,124.8c-.3-.8-8.8-19.6-27.6-38.5C194.6,61.3,162.9,48,128,48S61.4,61.3,36.3,86.3C17.5,105.2,9,124,8.7,124.8a7.9,7.9,0,0,0,0,6.4c.3.8,8.8,19.6,27.6,38.5C61.4,194.7,93.1,208,128,208s66.6-13.3,91.7-38.3c18.8-18.9,27.3-37.7,27.6-38.5A7.9,7.9,0,0,0,247.3,124.8ZM128,92a36,36,0,1,1-36,36A36,36,0,0,1,128,92Z</value>
+      <webElementGuid>d1352b60-e391-4783-9169-0d10a1cc8176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/main[@class=&quot;css-1m1uurz&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;YGrid-root css-1cstzm0&quot;]/div[@class=&quot;YGridItem-root container-content css-1uajyxx&quot;]/main[@class=&quot;css-1jtkcjx&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;YInputField-root css-1ezmgit&quot;]/div[@class=&quot;YInputContainer&quot;]/div[@class=&quot;YInputContainer-group YInputGroup&quot;]/div[@class=&quot;YInputGroup-adornment&quot;]/div[@class=&quot;YBox-root css-87s48d&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>1b9ceff3-e75d-4281-ac97-1a024a5a9d4b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

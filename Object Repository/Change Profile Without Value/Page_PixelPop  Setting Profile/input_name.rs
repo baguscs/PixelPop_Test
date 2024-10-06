@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_name</name>
+   <tag></tag>
+   <elementGuidId>a6d24ab8-7e75-49b9-95af-7831d89522fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Jhon DueTacin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.YInput-root.YInputGroup-input.css-1cad3ft</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>16c710fb-f6f2-468a-b47a-f5a63f7f8a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YInput-root YInputGroup-input css-1cad3ft</value>
+      <webElementGuid>1b6e5c7f-4eb4-4f71-af26-0d405c9eb77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>21d49f42-4a0a-4c19-a4b8-502da0989ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>e7beb960-b01d-4aac-ac0d-12cc34b0fc86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Jhon DueTacin</value>
+      <webElementGuid>14133cb8-c478-49ee-ba0c-a715b434a2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/main[@class=&quot;css-1m1uurz&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;YGrid-root css-1cstzm0&quot;]/div[@class=&quot;YGridItem-root container-content css-1uajyxx&quot;]/main[@class=&quot;css-1jtkcjx&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;YInputField-root  focused css-1ezmgit&quot;]/div[@class=&quot;YInputContainer&quot;]/div[@class=&quot;YInputContainer-group YInputGroup&quot;]/input[@class=&quot;YInput-root YInputGroup-input css-1cad3ft&quot;]</value>
+      <webElementGuid>f5d0224b-ef2a-42cf-b16d-2e4a26cc5338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Jhon DueTacin']</value>
+      <webElementGuid>6cc21546-c69c-4ee6-90fe-3b1d327230a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/main/div/div/div[2]/main/form/div[2]/div/div/input</value>
+      <webElementGuid>db92b35e-1f63-4fd3-83ad-cd8701f03514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::input[2]</value>
+      <webElementGuid>d3afb384-8b71-4630-8124-9225c8e642e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting'])[1]/following::input[2]</value>
+      <webElementGuid>9ec47f8b-4f38-48bc-acc5-bc68f5002096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Changes'])[1]/preceding::input[4]</value>
+      <webElementGuid>95cb4290-4255-4aca-b022-b7f60a6717fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::input[5]</value>
+      <webElementGuid>52de715e-20a5-4414-9586-3cb564031590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/input</value>
+      <webElementGuid>1721d85f-5b87-43ea-9938-b1122ec8825d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

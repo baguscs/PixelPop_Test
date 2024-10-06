@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat mengubah profil akun</description>
+   <name>TS_PF_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94eb7ea3-c2ad-4271-a870-efe5710a045f</testCaseGuid>
+</TestCaseEntity>

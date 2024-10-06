@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat melihat detail media</description>
+   <name>TS_MD_005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5995684a-e3f2-42bb-81b8-a87fbf20a398</testCaseGuid>
+</TestCaseEntity>

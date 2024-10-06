@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat melihat data media</description>
+   <name>TS_MD_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db11b1b1-3c76-4033-8e93-28a0d4278205</testCaseGuid>
+</TestCaseEntity>

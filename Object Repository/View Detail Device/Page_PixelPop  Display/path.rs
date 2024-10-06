@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>892e3421-c97d-4933-a50f-5feb7cdeccc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.href=&quot;/device/1&quot;</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>649eab07-275e-4085-8899-de6e53c72f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M208,32H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H156.7a15.9,15.9,0,0,0,11.3-4.7L219.3,168a15.9,15.9,0,0,0,4.7-11.3V48A16,16,0,0,0,208,32ZM96,88h64a8,8,0,0,1,0,16H96a8,8,0,0,1,0-16Zm32,80H96a8,8,0,0,1,0-16h32a8,8,0,0,1,0,16ZM96,136a8,8,0,0,1,0-16h64a8,8,0,0,1,0,16Zm64,68.7V160h44.7Z</value>
+      <webElementGuid>1676e56a-35e5-4c49-b146-742d1b0fccec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-1pbasli&quot;]/div[@class=&quot;css-kx2a0v&quot;]/div[@class=&quot;YBox-root css-87s48d&quot;]/table[@class=&quot;table css-ezcjsp&quot;]/tbody[@class=&quot;table-body css-1l1lz3u&quot;]/tr[@class=&quot;table-row  css-1l1lz3u&quot;]/td[@class=&quot;table-cell undefined css-1l1lz3u&quot;]/div[@class=&quot;css-d3a8m4&quot;]/a[1]/button[@class=&quot;YIconButton-root css-1qb7fz2&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>4dcb1f50-186d-49d6-b679-9846751445e9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

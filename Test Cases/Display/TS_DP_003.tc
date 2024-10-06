@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat menambah device dengan OTP yang invalid</description>
+   <name>TS_DP_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1fae876-f523-4dd9-96dd-bef1d18a200d</testCaseGuid>
+</TestCaseEntity>

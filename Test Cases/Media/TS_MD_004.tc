@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat membatalkan upload media</description>
+   <name>TS_MD_004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad3073a1-b8fe-4b14-ab9c-147523565701</testCaseGuid>
+</TestCaseEntity>

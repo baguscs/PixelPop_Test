@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat logut dari akun</description>
+   <name>TS_LO_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>466edb99-1e3c-4de9-8974-4e55e9ca36c2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat memberhentikan media yang terputar di device</description>
+   <name>TS_DP_010</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7f6a91e-c8d2-4421-8e46-c2168240bb83</testCaseGuid>
+</TestCaseEntity>

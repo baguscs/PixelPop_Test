@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Setting</name>
+   <tag></tag>
+   <elementGuidId>d8c4ea34-1c7b-4672-96eb-2b835d52ffbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div[2]/div[2]/div[2]/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.YTextView-root.css-f2gq74</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2e83e70-899d-4175-8bda-89ff2a119938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>YTextView-root css-f2gq74</value>
+      <webElementGuid>056f7698-ff1c-4ef6-96d3-a23abe8181fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setting</value>
+      <webElementGuid>c6d84c01-15c3-44cb-907e-373d07418ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-twkkja&quot;]/div[@class=&quot;YBox-root container css-87s48d&quot;]/div[@class=&quot;YBox-root right css-87s48d&quot;]/div[@class=&quot;setting css-15s0kx7&quot;]/div[@class=&quot;YBox-root menu css-87s48d&quot;]/a[1]/div[@class=&quot;YBox-root menu-item css-87s48d&quot;]/span[@class=&quot;YTextView-root css-f2gq74&quot;]</value>
+      <webElementGuid>55663261-b151-4461-a637-0a84c1cf99d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div[2]/div[2]/div[2]/div/a/div/span</value>
+      <webElementGuid>43371d0f-bcd2-43c9-afd6-3eebd435d328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='has been successfully updated'])[1]/following::span[1]</value>
+      <webElementGuid>fee2b5dc-8b30-4858-9848-e02506c3aae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='videoplayback'])[2]/following::span[2]</value>
+      <webElementGuid>0951bd4c-b1ed-410d-ba0e-f50391433682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/preceding::span[1]</value>
+      <webElementGuid>a0ded127-e368-47e4-b416-35cde904633e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hours'])[1]/preceding::span[2]</value>
+      <webElementGuid>d6381fe4-98f4-401c-9d00-aef839743db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>43b15ec1-a37a-4add-8c4c-8415f1576ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Setting' or . = 'Setting')]</value>
+      <webElementGuid>c42e5cfc-fcf8-4baa-8238-0a4ed338e2a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

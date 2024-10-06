@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat mengubah informasi media, jika nama dikosongi</description>
+   <name>TS_MD_007</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bb43381-0226-4ca7-b390-3384dcb8d233</testCaseGuid>
+</TestCaseEntity>

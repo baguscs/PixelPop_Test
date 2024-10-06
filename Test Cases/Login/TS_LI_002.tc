@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat melakukan login dengan akun yang tidak terdaftar</description>
+   <name>TS_LI_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab2ded92-21df-421b-8b69-c0ced4ff35b9</testCaseGuid>
+</TestCaseEntity>

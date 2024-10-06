@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>c813942f-565e-4b03-981a-695c2ecd4950</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.YIconButton-root.css-3zliik > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>10cb1ea2-dcd5-4b4f-99f2-cc5e87f797e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M128,24A104,104,0,1,0,232,128,104.2,104.2,0,0,0,128,24Zm36.4,110.7-48,32A8.7,8.7,0,0,1,112,168a8.5,8.5,0,0,1-3.8-.9A8,8,0,0,1,104,160V96a8,8,0,0,1,4.2-7.1,8.3,8.3,0,0,1,8.2.4l48,32a8,8,0,0,1,0,13.4Z</value>
+      <webElementGuid>a0e95d7f-1f3e-4ec9-bd8f-70e7e76f60a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1d5zm2c&quot;]/div[@class=&quot;layout-main desktop&quot;]/div[@class=&quot;css-1pbasli&quot;]/div[@class=&quot;css-kx2a0v&quot;]/div[@class=&quot;YBox-root css-87s48d&quot;]/table[@class=&quot;table css-ezcjsp&quot;]/tbody[@class=&quot;table-body css-1l1lz3u&quot;]/tr[@class=&quot;table-row  css-1l1lz3u&quot;]/td[@class=&quot;table-cell undefined css-1l1lz3u&quot;]/div[@class=&quot;css-d3a8m4&quot;]/button[@class=&quot;YIconButton-root css-3zliik&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>107b00b3-ae9b-4b95-b5ef-3f47d4d8dbea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

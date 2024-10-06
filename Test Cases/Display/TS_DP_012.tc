@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat memutar media pada device yang offline</description>
+   <name>TS_DP_012</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df289c6b-a375-4afe-98e8-ab17aa42f369</testCaseGuid>
+</TestCaseEntity>

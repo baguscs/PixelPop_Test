@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat mengubah informasi media</description>
+   <name>TS_MD_006</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3818e921-a454-4e55-8f10-34feeb4e7423</testCaseGuid>
+</TestCaseEntity>

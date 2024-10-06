@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat mengubah data display, jika nama device kosong</description>
+   <name>TS_DP_006</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48c080f4-1587-4c64-ad50-3a23d6ef24d8</testCaseGuid>
+</TestCaseEntity>

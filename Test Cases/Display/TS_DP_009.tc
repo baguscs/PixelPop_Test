@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat menghapus device ketika media sedang diputar</description>
+   <name>TS_DP_009</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c123b960-0659-4f6e-b94f-45a01e84fc4e</testCaseGuid>
+</TestCaseEntity>

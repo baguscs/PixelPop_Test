@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat melakukan login dengan akun yang telah terdaftar</description>
+   <name>TS_LI_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5be4463c-7149-4e25-be7d-b036912b6940</testCaseGuid>
+</TestCaseEntity>

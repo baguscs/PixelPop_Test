@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat mengubah data display, jika tidak memilih media</description>
+   <name>TS_DP_007</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76b6304a-f3ad-445b-9363-3871a31c3b87</testCaseGuid>
+</TestCaseEntity>

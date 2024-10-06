@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat mengubah password akun</description>
+   <name>TS_PW_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ab44562-218b-421c-af1f-9357fc1914b2</testCaseGuid>
+</TestCaseEntity>

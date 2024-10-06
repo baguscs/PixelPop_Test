@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat menambah media</description>
+   <name>TS_MD_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31f977f9-3f95-408b-a611-400556dd90e6</testCaseGuid>
+</TestCaseEntity>

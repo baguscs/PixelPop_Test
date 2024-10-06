@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat menambah device tanpa OTP</description>
+   <name>TS_DP_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>180adeff-9166-41c1-9521-9d5997bb5c3c</testCaseGuid>
+</TestCaseEntity>

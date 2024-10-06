@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat melihat detail device</description>
+   <name>TS_DP_004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>defc6988-dfab-4ec4-919e-b2eecc9b994d</testCaseGuid>
+</TestCaseEntity>

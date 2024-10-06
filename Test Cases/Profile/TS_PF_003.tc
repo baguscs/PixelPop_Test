@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat mengubah profil akun, jika field email kosong</description>
+   <name>TS_PF_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bf5b063-e010-45e9-aa09-75796128db04</testCaseGuid>
+</TestCaseEntity>

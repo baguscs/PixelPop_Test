@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat memutar media pada device</description>
+   <name>TS_DP_011</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>157812ad-d288-4995-8c33-6570cd6af89a</testCaseGuid>
+</TestCaseEntity>

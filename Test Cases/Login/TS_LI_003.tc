@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tidak dapat melakukan login tanpa mengisi email dan password</description>
+   <name>TS_LI_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9032040d-9dc6-4240-a216-e2ef527a5e7d</testCaseGuid>
+</TestCaseEntity>

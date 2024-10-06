@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat menambah device</description>
+   <name>TS_DP_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9746f58-cb44-4768-8d13-187cd5401681</testCaseGuid>
+</TestCaseEntity>

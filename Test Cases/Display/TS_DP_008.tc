@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User dapat menghapus device</description>
+   <name>TS_DP_008</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5abbd64d-6146-4f24-9bf2-41b53c074b24</testCaseGuid>
+</TestCaseEntity>
