@@ -2,7 +2,8 @@
 ## Deskripsi Proyek
 PixelPop memberikan pengalaman visual yang mengesankan dan interaktif kepada audiens anda, sebuah teknologi revolusioner yang memungkinkan anda untuk menyampaikan pesan, informasi, dan promosi dengan cara yang lebih menarik dan efektif.
 
-### Pada testing ini menggunakan tools katalon
+## Tujuan
+Tujuan testing ini untuk menguji salah satu produk dari PT Inovasi Adiwarna Raya
 
 ## Cara Testing
 1. Clone Repository `git clone https://github.com/baguscs/PixelPop_Test.git` 
